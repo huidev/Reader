@@ -1,0 +1,22 @@
+{
+  "name": "WHReader",
+  "version": "0.1.0",
+  "summary": "A short description of WHReader.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/huidev/Reader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "553951696@qq.com": "553951696@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/huidev/Reader.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WHReader/Classes/**/*"
+}

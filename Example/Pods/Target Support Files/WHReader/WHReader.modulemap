@@ -1,0 +1,6 @@
+framework module WHReader {
+  umbrella header "WHReader-umbrella.h"
+
+  export *
+  module * { export * }
+}
