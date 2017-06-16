@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'WHReader_Example' do
+  pod 'WHReader', :path => '../'
+
+  target 'WHReader_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+  pod 'Expecta'
+  pod 'FBSnapshotTestCase'
+  pod 'Expecta+Snapshots'
+  end
+end
